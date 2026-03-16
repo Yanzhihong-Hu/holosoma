@@ -1,0 +1,592 @@
+Index,Category,Mean,Std,Min,Max,Unique_Count,Switch_Count,Values_Sample
+0,Continuous (Pose/Vel/Root),-0.38087532,0.76485723,-1.2929847,0.7987594,222,221,Continuous
+1,Continuous (Pose/Vel/Root),0.058506213,0.15075754,-0.21458253,0.30896723,222,221,Continuous
+2,Continuous (Pose/Vel/Root),0.86420256,0.03414738,0.75313187,0.893361,221,220,Continuous
+3,Continuous (Pose/Vel/Root),0.013178348,0.047091093,-0.08860267,0.10327047,222,221,Continuous
+4,Continuous (Pose/Vel/Root),-0.0874378,0.10226414,-0.37113535,0.040589053,222,221,Continuous
+5,Continuous (Pose/Vel/Root),-0.025935482,0.3144548,-0.48322794,0.70694834,222,221,Continuous
+6,Continuous (Pose/Vel/Root),-0.9360903,0.060711633,-0.9994129,-0.70262796,222,221,Continuous
+7,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+8,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+9,Continuous (Pose/Vel/Root),0.08462706,0.11709294,-0.18166538,0.40391314,222,221,Continuous
+10,Continuous (Pose/Vel/Root),-0.4696999,0.39938995,-1.5817969,-0.036825668,222,221,Continuous
+11,Continuous (Pose/Vel/Root),-0.070913956,0.049962226,-0.2201226,0.05687521,222,221,Continuous
+12,Continuous (Pose/Vel/Root),-0.1162096,0.06441921,-0.31022567,-0.03716428,222,221,Continuous
+13,Continuous (Pose/Vel/Root),0.4828406,0.30515003,0.065825075,1.2857099,222,221,Continuous
+14,Continuous (Pose/Vel/Root),-0.111624986,0.15602452,-0.47030854,0.23658904,222,221,Continuous
+15,Continuous (Pose/Vel/Root),0.10837376,0.08252214,-0.12563564,0.32386205,222,221,Continuous
+16,Continuous (Pose/Vel/Root),-0.23552175,0.106466904,-0.45434338,-0.0053056683,222,221,Continuous
+17,Continuous (Pose/Vel/Root),0.17358172,0.09033726,-0.07589542,0.37177703,222,221,Continuous
+18,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+19,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+20,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+21,Continuous (Pose/Vel/Root),-0.025673695,0.121552415,-0.27929586,0.20340447,222,221,Continuous
+22,Continuous (Pose/Vel/Root),-0.5317413,0.3992836,-1.5899847,-0.029661732,222,221,Continuous
+23,Continuous (Pose/Vel/Root),0.029532863,0.06759975,-0.11844986,0.19682455,222,221,Continuous
+24,Continuous (Pose/Vel/Root),0.038384166,0.09468588,-0.075801775,0.29773647,222,221,Continuous
+25,Continuous (Pose/Vel/Root),0.44078535,0.30718896,-0.049741857,1.234454,222,221,Continuous
+26,Continuous (Pose/Vel/Root),0.06283806,0.11805657,-0.19058397,0.34698194,222,221,Continuous
+27,Continuous (Pose/Vel/Root),0.06407358,0.07085467,-0.0693854,0.28512678,222,221,Continuous
+28,Continuous (Pose/Vel/Root),-0.11252356,0.16373348,-0.47888443,0.3564173,222,221,Continuous
+29,Continuous (Pose/Vel/Root),-0.16736756,0.09457194,-0.33647048,0.023757607,222,221,Continuous
+30,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+31,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+32,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+33,Continuous (Pose/Vel/Root),-0.023818335,0.06749625,-0.18681274,0.090670414,222,221,Continuous
+34,Continuous (Pose/Vel/Root),0.37044072,0.38897124,-0.019340934,1.354998,222,221,Continuous
+35,Continuous (Pose/Vel/Root),0.045076303,0.07553249,-0.076169014,0.24354054,222,221,Continuous
+36,Continuous (Pose/Vel/Root),0.057074342,0.035585925,-0.03125455,0.15756474,222,221,Continuous
+37,Continuous (Pose/Vel/Root),-0.13256389,0.13340098,-0.47621226,0.037234146,222,221,Continuous
+38,Continuous (Pose/Vel/Root),-0.009827755,0.031523477,-0.063195325,0.096870944,222,221,Continuous
+39,Continuous (Pose/Vel/Root),0.05795819,0.059261348,-0.046293575,0.17941156,222,221,Continuous
+40,Continuous (Pose/Vel/Root),0.003465223,0.051579706,-0.08163597,0.119168185,222,221,Continuous
+41,Continuous (Pose/Vel/Root),-0.010248334,0.07371209,-0.21679217,0.084567174,222,221,Continuous
+42,Continuous (Pose/Vel/Root),-0.017828953,0.113237314,-0.19061904,0.22246845,222,221,Continuous
+43,Continuous (Pose/Vel/Root),-0.05301528,0.23284383,-0.5766766,0.30159637,222,221,Continuous
+44,Continuous (Pose/Vel/Root),-0.018457375,0.121734716,-0.28895348,0.20712423,222,221,Continuous
+45,Continuous (Pose/Vel/Root),0.07143146,0.0778423,-0.06452133,0.22619212,222,221,Continuous
+46,Continuous (Pose/Vel/Root),-0.028355556,0.14511436,-0.3489457,0.18286198,222,221,Continuous
+47,Continuous (Pose/Vel/Root),-0.049598925,0.13498291,-0.3537062,0.21914594,222,221,Continuous
+48,Continuous (Pose/Vel/Root),-0.14570011,0.2132548,-0.47626793,0.25606936,222,221,Continuous
+49,Continuous (Pose/Vel/Root),-0.1445629,0.13204536,-0.33138722,0.068688534,222,221,Continuous
+50,Continuous (Pose/Vel/Root),-0.22695968,0.2051263,-0.74772394,0.023000704,222,221,Continuous
+51,Continuous (Pose/Vel/Root),-0.4326656,0.3218689,-0.7686791,0.33990726,222,221,Continuous
+52,Continuous (Pose/Vel/Root),0.030465774,0.11120275,-0.22562751,0.19900577,222,221,Continuous
+53,Continuous (Pose/Vel/Root),-0.45276874,0.15543416,-0.6847733,-0.19217491,222,221,Continuous
+54,Continuous (Pose/Vel/Root),-0.017756179,0.082771234,-0.14677674,0.16840579,222,221,Continuous
+55,Continuous (Pose/Vel/Root),-0.07747342,0.20236707,-0.47824183,0.18052055,222,221,Continuous
+56,Continuous (Pose/Vel/Root),-0.9333752,0.5085263,-1.6114717,-0.25020444,222,221,Continuous
+57,Continuous (Pose/Vel/Root),-0.00046305184,0.19294296,-0.2806859,0.5293105,222,221,Continuous
+58,Continuous (Pose/Vel/Root),-0.5984974,0.40277174,-1.1168476,-0.020208895,222,221,Continuous
+59,Continuous (Pose/Vel/Root),0.034282163,0.14172195,-0.31696716,0.3214919,222,221,Continuous
+60,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+61,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+62,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+63,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+64,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+65,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+66,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+67,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+68,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+69,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+70,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+71,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+72,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+73,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+74,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+75,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+76,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+77,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+78,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+79,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+80,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+81,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+82,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+83,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+84,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+85,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+86,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+87,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+88,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+89,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+90,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+91,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+92,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+93,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+94,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+95,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+96,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+97,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+98,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+99,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+100,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+101,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+102,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+103,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+104,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+105,Continuous (Pose/Vel/Root),0.14065899,0.20413724,-0.16898389,0.4591828,222,221,Continuous
+106,Continuous (Pose/Vel/Root),-0.08444546,0.090343416,-0.23777126,0.07669972,222,221,Continuous
+107,Continuous (Pose/Vel/Root),0.22944309,0.23394163,-0.028102988,0.7370599,222,221,Continuous
+108,Continuous (Pose/Vel/Root),0.47662416,0.2603442,-0.031015119,0.80604625,222,221,Continuous
+109,Continuous (Pose/Vel/Root),0.021140799,0.17740875,-0.41705817,0.23459776,222,221,Continuous
+110,Continuous (Pose/Vel/Root),0.415775,0.17941566,0.123440854,0.7722282,222,221,Continuous
+111,Continuous (Pose/Vel/Root),-0.15342087,0.11253689,-0.49007112,0.0024148845,222,221,Continuous
+112,Continuous (Pose/Vel/Root),-0.27452618,0.21181811,-0.712526,0.082146525,222,221,Continuous
+113,Continuous (Pose/Vel/Root),0.9484681,0.4997414,0.29263228,1.7707257,222,221,Continuous
+114,Continuous (Pose/Vel/Root),0.035226144,0.15154612,-0.5028547,0.1906108,222,221,Continuous
+115,Continuous (Pose/Vel/Root),-0.6091049,0.30396014,-0.99265295,-0.12124232,222,221,Continuous
+116,Continuous (Pose/Vel/Root),-0.014813524,0.101324946,-0.245472,0.2640391,222,221,Continuous
+117,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+118,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+119,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+120,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+121,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+122,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+123,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+124,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+125,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+126,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+127,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+128,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+129,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+130,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+131,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+132,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+133,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+134,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+135,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+136,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+137,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+138,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+139,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+140,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+141,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+142,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+143,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+144,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+145,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+146,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+147,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+148,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+149,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+150,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+151,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+152,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+153,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+154,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+155,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+156,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+157,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+158,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+159,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+160,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+161,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+162,Continuous (Pose/Vel/Root),-0.38087532,0.76485723,-1.2929847,0.7987594,222,221,Continuous
+163,Continuous (Pose/Vel/Root),0.058506217,0.15075754,-0.21458253,0.30896723,222,221,Continuous
+164,Continuous (Pose/Vel/Root),0.86420256,0.03414738,0.75313187,0.893361,221,220,Continuous
+165,Continuous (Pose/Vel/Root),-0.3993598,0.7418608,-1.2837756,0.7417988,222,221,Continuous
+166,Continuous (Pose/Vel/Root),0.11324006,0.14000633,-0.1496087,0.34818515,222,221,Continuous
+167,Continuous (Pose/Vel/Root),0.77442455,0.025451643,0.6914407,0.8008143,222,221,Continuous
+168,Continuous (Pose/Vel/Root),-0.32794163,0.71956563,-1.2752386,0.7435726,222,221,Continuous
+169,Continuous (Pose/Vel/Root),0.12074568,0.15279107,-0.16643772,0.41833797,222,221,Continuous
+170,Continuous (Pose/Vel/Root),0.4392015,0.014216035,0.40783405,0.48132604,222,221,Continuous
+171,Continuous (Pose/Vel/Root),-0.4008178,0.75640386,-1.3308138,0.66174823,222,221,Continuous
+172,Continuous (Pose/Vel/Root),0.097876266,0.16944166,-0.23598623,0.3970952,222,221,Continuous
+173,Continuous (Pose/Vel/Root),0.08799445,0.030453566,0.06099391,0.19920015,221,221,Continuous
+174,Continuous (Pose/Vel/Root),-0.31569332,0.74067736,-1.2160183,0.7133154,222,221,Continuous
+175,Continuous (Pose/Vel/Root),0.1229474,0.17610425,-0.18993244,0.4515065,222,221,Continuous
+176,Continuous (Pose/Vel/Root),0.049317807,0.017147584,0.03486693,0.10501337,222,221,Continuous
+177,Continuous (Pose/Vel/Root),-0.39551076,0.8087696,-1.3439248,0.85511416,222,221,Continuous
+178,Continuous (Pose/Vel/Root),0.004409891,0.15853858,-0.28288373,0.29015228,222,221,Continuous
+179,Continuous (Pose/Vel/Root),0.775838,0.029154163,0.68491447,0.81165326,222,221,Continuous
+180,Continuous (Pose/Vel/Root),-0.31328645,0.7981343,-1.3567885,0.86072284,222,221,Continuous
+181,Continuous (Pose/Vel/Root),-0.031135747,0.17527266,-0.32175735,0.25156006,222,221,Continuous
+182,Continuous (Pose/Vel/Root),0.45341438,0.01938463,0.41683924,0.500898,222,221,Continuous
+183,Continuous (Pose/Vel/Root),-0.35205463,0.8182273,-1.4678355,0.8511871,222,221,Continuous
+184,Continuous (Pose/Vel/Root),-0.029496318,0.17491798,-0.29812866,0.24359435,222,221,Continuous
+185,Continuous (Pose/Vel/Root),0.10275004,0.030135032,0.07311481,0.20316613,222,221,Continuous
+186,Continuous (Pose/Vel/Root),-0.27137646,0.82583433,-1.4204998,0.9300402,222,221,Continuous
+187,Continuous (Pose/Vel/Root),-0.042533703,0.20000598,-0.334606,0.315974,222,221,Continuous
+188,Continuous (Pose/Vel/Root),0.057852056,0.023607973,0.03580016,0.1293152,222,221,Continuous
+189,Continuous (Pose/Vel/Root),-0.39065692,0.75840455,-1.3051307,0.78457737,222,221,Continuous
+190,Continuous (Pose/Vel/Root),0.052218545,0.15192358,-0.20972651,0.3014107,222,221,Continuous
+191,Continuous (Pose/Vel/Root),0.9703768,0.036022868,0.85127735,1.0003325,222,221,Continuous
+192,Continuous (Pose/Vel/Root),-0.358127,0.730318,-1.2612731,0.7800347,222,221,Continuous
+193,Continuous (Pose/Vel/Root),0.06187219,0.15880775,-0.19728944,0.31700268,222,221,Continuous
+194,Continuous (Pose/Vel/Root),1.061592,0.08454276,0.79924524,1.1159317,222,221,Continuous
+195,Continuous (Pose/Vel/Root),-0.32367164,0.72626203,-1.2285241,0.81023186,222,221,Continuous
+196,Continuous (Pose/Vel/Root),0.05683595,0.16640486,-0.21376315,0.33755043,222,221,Continuous
+197,Continuous (Pose/Vel/Root),1.0865562,0.11265331,0.7504804,1.1555039,222,221,Continuous
+198,Continuous (Pose/Vel/Root),-0.2943574,0.69961226,-1.2238244,0.81352854,222,221,Continuous
+199,Continuous (Pose/Vel/Root),0.018149024,0.19217713,-0.22948888,0.29567808,222,221,Continuous
+200,Continuous (Pose/Vel/Root),1.2659718,0.1844569,0.7105719,1.368282,222,221,Continuous
+201,Continuous (Pose/Vel/Root),-0.24689147,0.66357905,-1.1473328,0.82070905,222,221,Continuous
+202,Continuous (Pose/Vel/Root),0.0017888898,0.19669767,-0.28834796,0.2910849,222,221,Continuous
+203,Continuous (Pose/Vel/Root),1.3747938,0.22335736,0.69912386,1.5039645,222,221,Continuous
+204,Continuous (Pose/Vel/Root),-0.30313697,0.67914873,-1.1854266,0.76376086,222,221,Continuous
+205,Continuous (Pose/Vel/Root),0.08282671,0.17476504,-0.16297439,0.36276656,222,221,Continuous
+206,Continuous (Pose/Vel/Root),1.1910101,0.15530127,0.7250236,1.2875386,222,221,Continuous
+207,Continuous (Pose/Vel/Root),-0.3072262,0.63112235,-1.1587437,0.68160665,222,221,Continuous
+208,Continuous (Pose/Vel/Root),0.15855803,0.17499453,-0.06748262,0.42125896,222,221,Continuous
+209,Continuous (Pose/Vel/Root),1.2103409,0.17322588,0.689289,1.3322798,222,221,Continuous
+210,Continuous (Pose/Vel/Root),-0.28546572,0.6414559,-1.2398082,0.65679795,222,221,Continuous
+211,Continuous (Pose/Vel/Root),0.30718014,0.19178393,0.044237673,0.6821835,222,221,Continuous
+212,Continuous (Pose/Vel/Root),1.032791,0.21328248,0.48407948,1.3379871,222,221,Continuous
+213,Continuous (Pose/Vel/Root),-0.17279772,0.6970811,-1.2114128,0.85410935,222,221,Continuous
+214,Continuous (Pose/Vel/Root),0.28568792,0.27291515,-0.08182317,0.7426402,222,221,Continuous
+215,Continuous (Pose/Vel/Root),0.96455836,0.31927514,0.29864693,1.4307121,222,221,Continuous
+216,Continuous (Pose/Vel/Root),-0.116077185,0.7263525,-1.1931814,0.95528394,222,221,Continuous
+217,Continuous (Pose/Vel/Root),0.25706193,0.31005052,-0.16129094,0.7743132,222,221,Continuous
+218,Continuous (Pose/Vel/Root),0.93758714,0.36318856,0.24439323,1.470625,222,221,Continuous
+219,Continuous (Pose/Vel/Root),-0.102084786,0.739446,-1.1958683,0.9867145,222,221,Continuous
+220,Continuous (Pose/Vel/Root),0.2462883,0.32063892,-0.18996859,0.7797265,222,221,Continuous
+221,Continuous (Pose/Vel/Root),0.92458284,0.37589562,0.21958226,1.47617,222,221,Continuous
+222,Continuous (Pose/Vel/Root),-0.105924845,0.75086445,-1.2085388,0.9968911,222,221,Continuous
+223,Continuous (Pose/Vel/Root),0.2320815,0.32059214,-0.20930153,0.7655462,222,221,Continuous
+224,Continuous (Pose/Vel/Root),0.9172209,0.37926653,0.20254868,1.4717886,222,221,Continuous
+225,Continuous (Pose/Vel/Root),-0.115909025,0.7336763,-1.2127825,0.9591292,222,221,Continuous
+226,Continuous (Pose/Vel/Root),0.26794055,0.31281725,-0.16167289,0.7847491,222,221,Continuous
+227,Continuous (Pose/Vel/Root),0.9187058,0.35907045,0.22706026,1.448753,222,221,Continuous
+228,Continuous (Pose/Vel/Root),-0.10693514,0.7487603,-1.2227936,0.9866227,222,221,Continuous
+229,Continuous (Pose/Vel/Root),0.25715366,0.32121432,-0.18968797,0.7857964,222,221,Continuous
+230,Continuous (Pose/Vel/Root),0.90277755,0.36868712,0.20020479,1.4469348,222,221,Continuous
+231,Continuous (Pose/Vel/Root),-0.11213985,0.7605179,-1.2362697,0.9958144,222,221,Continuous
+232,Continuous (Pose/Vel/Root),0.24209328,0.32061875,-0.20923585,0.7696785,222,221,Continuous
+233,Continuous (Pose/Vel/Root),0.8954806,0.3715557,0.18350601,1.4417042,222,221,Continuous
+234,Continuous (Pose/Vel/Root),-0.14240366,0.74028444,-1.2547501,0.930652,222,221,Continuous
+235,Continuous (Pose/Vel/Root),0.28125146,0.30123395,-0.14551646,0.7725965,222,221,Continuous
+236,Continuous (Pose/Vel/Root),0.9002438,0.3387567,0.21206242,1.4014438,222,221,Continuous
+237,Continuous (Pose/Vel/Root),-0.1418724,0.75121236,-1.2666368,0.9438085,222,221,Continuous
+238,Continuous (Pose/Vel/Root),0.272975,0.304207,-0.1629644,0.7674631,222,221,Continuous
+239,Continuous (Pose/Vel/Root),0.88919604,0.3423004,0.19487566,1.3952227,222,221,Continuous
+240,Continuous (Pose/Vel/Root),-0.14645688,0.7602619,-1.2766047,0.9505357,222,221,Continuous
+241,Continuous (Pose/Vel/Root),0.26039073,0.30361423,-0.17898965,0.7536807,222,221,Continuous
+242,Continuous (Pose/Vel/Root),0.884235,0.34451506,0.18424284,1.3916824,222,221,Continuous
+243,Continuous (Pose/Vel/Root),-0.12916072,0.73768646,-1.2366719,0.9448257,222,221,Continuous
+244,Continuous (Pose/Vel/Root),0.2770711,0.3072987,-0.15243429,0.78088015,222,221,Continuous
+245,Continuous (Pose/Vel/Root),0.90665615,0.3478633,0.21740484,1.4214469,222,221,Continuous
+246,Continuous (Pose/Vel/Root),-0.121901214,0.7518943,-1.2456796,0.9699623,222,221,Continuous
+247,Continuous (Pose/Vel/Root),0.2648412,0.31448382,-0.17947644,0.7790005,222,221,Continuous
+248,Continuous (Pose/Vel/Root),0.89310217,0.35688803,0.1944645,1.4208359,222,221,Continuous
+249,Continuous (Pose/Vel/Root),-0.12789096,0.7627256,-1.2571754,0.9777373,222,221,Continuous
+250,Continuous (Pose/Vel/Root),0.24863216,0.31326002,-0.19884837,0.7610563,222,221,Continuous
+251,Continuous (Pose/Vel/Root),0.88802683,0.35971346,0.17997819,1.4174117,222,221,Continuous
+252,Continuous (Pose/Vel/Root),-0.15286806,0.7102615,-1.1951203,0.8984005,222,221,Continuous
+253,Continuous (Pose/Vel/Root),0.25466028,0.28522936,-0.12661308,0.7362164,222,221,Continuous
+254,Continuous (Pose/Vel/Root),0.96531326,0.34234947,0.2821579,1.4630297,222,221,Continuous
+255,Continuous (Pose/Vel/Root),-0.14511509,0.7210759,-1.1936064,0.92283374,222,221,Continuous
+256,Continuous (Pose/Vel/Root),0.23550683,0.29107693,-0.15489173,0.72839856,222,221,Continuous
+257,Continuous (Pose/Vel/Root),0.9620177,0.3543913,0.2664405,1.475273,222,221,Continuous
+258,Continuous (Pose/Vel/Root),-0.1343164,0.7304802,-1.1927621,0.94724274,222,221,Continuous
+259,Continuous (Pose/Vel/Root),0.22419897,0.29878473,-0.17792904,0.7299136,222,221,Continuous
+260,Continuous (Pose/Vel/Root),0.955258,0.36531734,0.24943972,1.483841,222,221,Continuous
+261,Continuous (Pose/Vel/Root),-0.30713335,0.7395384,-1.2601376,0.8593406,222,221,Continuous
+262,Continuous (Pose/Vel/Root),-0.009766308,0.18624626,-0.27918437,0.270855,222,221,Continuous
+263,Continuous (Pose/Vel/Root),1.187396,0.15446323,0.7255788,1.274913,222,221,Continuous
+264,Continuous (Pose/Vel/Root),-0.30313304,0.7961757,-1.3403214,0.9596173,222,221,Continuous
+265,Continuous (Pose/Vel/Root),-0.09486802,0.20790528,-0.38885352,0.25345886,222,221,Continuous
+266,Continuous (Pose/Vel/Root),1.2006388,0.18403691,0.65622675,1.3231007,222,221,Continuous
+267,Continuous (Pose/Vel/Root),-0.28493446,0.93116224,-1.4596673,1.1789827,222,221,Continuous
+268,Continuous (Pose/Vel/Root),-0.12024303,0.28032377,-0.5365135,0.33716476,222,221,Continuous
+269,Continuous (Pose/Vel/Root),1.0202914,0.21913362,0.43093872,1.3189468,222,221,Continuous
+270,Continuous (Pose/Vel/Root),-0.19847001,0.94477,-1.4944384,1.2250888,222,221,Continuous
+271,Continuous (Pose/Vel/Root),-0.09353396,0.33159935,-0.50854856,0.52765614,222,221,Continuous
+272,Continuous (Pose/Vel/Root),0.96819466,0.3160107,0.25795436,1.4251858,222,221,Continuous
+273,Continuous (Pose/Vel/Root),-0.15263353,0.93491644,-1.4773178,1.2262499,222,221,Continuous
+274,Continuous (Pose/Vel/Root),-0.07564165,0.36256057,-0.49345362,0.6162088,222,221,Continuous
+275,Continuous (Pose/Vel/Root),0.95488197,0.36322227,0.2144649,1.4817222,222,221,Continuous
+276,Continuous (Pose/Vel/Root),-0.14167091,0.9312478,-1.4737173,1.2209587,222,221,Continuous
+277,Continuous (Pose/Vel/Root),-0.06430004,0.37176627,-0.4844917,0.6464744,222,221,Continuous
+278,Continuous (Pose/Vel/Root),0.94587916,0.37761852,0.19752151,1.4929489,222,221,Continuous
+279,Continuous (Pose/Vel/Root),-0.14337547,0.92176735,-1.4645646,1.2017074,222,221,Continuous
+280,Continuous (Pose/Vel/Root),-0.048465006,0.36911064,-0.46377373,0.6575508,222,221,Continuous
+281,Continuous (Pose/Vel/Root),0.9405259,0.3812977,0.19517529,1.492222,222,221,Continuous
+282,Continuous (Pose/Vel/Root),-0.15694496,0.94658434,-1.5001104,1.2321267,222,221,Continuous
+283,Continuous (Pose/Vel/Root),-0.071229786,0.36816102,-0.49453586,0.6287868,222,221,Continuous
+284,Continuous (Pose/Vel/Root),0.9363625,0.3613423,0.19105554,1.4614967,222,221,Continuous
+285,Continuous (Pose/Vel/Root),-0.15033653,0.9429017,-1.4987581,1.2225969,222,221,Continuous
+286,Continuous (Pose/Vel/Root),-0.05640853,0.37509227,-0.48083276,0.657478,222,221,Continuous
+287,Continuous (Pose/Vel/Root),0.9241619,0.37265128,0.17315602,1.4655862,222,221,Continuous
+288,Continuous (Pose/Vel/Root),-0.15296441,0.93265647,-1.4888247,1.2015665,222,221,Continuous
+289,Continuous (Pose/Vel/Root),-0.039582796,0.37147525,-0.4584213,0.6677438,222,221,Continuous
+290,Continuous (Pose/Vel/Root),0.9188273,0.37565935,0.17099541,1.4640285,222,221,Continuous
+291,Continuous (Pose/Vel/Root),-0.18256846,0.95668805,-1.5272138,1.2230697,222,221,Continuous
+292,Continuous (Pose/Vel/Root),-0.06025663,0.3593154,-0.48172063,0.61642313,222,221,Continuous
+293,Continuous (Pose/Vel/Root),0.91506374,0.342188,0.1789583,1.4124265,222,221,Continuous
+294,Continuous (Pose/Vel/Root),-0.18233088,0.95282114,-1.5259461,1.2117603,222,221,Continuous
+295,Continuous (Pose/Vel/Root),-0.047603328,0.3605993,-0.46752578,0.6317647,222,221,Continuous
+296,Continuous (Pose/Vel/Root),0.90608996,0.34644604,0.16923678,1.4096402,222,221,Continuous
+297,Continuous (Pose/Vel/Root),-0.1845519,0.94400156,-1.5169445,1.1943257,222,221,Continuous
+298,Continuous (Pose/Vel/Root),-0.03419435,0.35711887,-0.44925475,0.6390501,222,221,Continuous
+299,Continuous (Pose/Vel/Root),0.90264124,0.34843108,0.16605431,1.4087766,222,221,Continuous
+300,Continuous (Pose/Vel/Root),-0.17056409,0.95399374,-1.5179147,1.2293401,222,221,Continuous
+301,Continuous (Pose/Vel/Root),-0.06566874,0.36462224,-0.48898965,0.62401545,222,221,Continuous
+302,Continuous (Pose/Vel/Root),0.9228394,0.3510776,0.18128234,1.4334116,222,221,Continuous
+303,Continuous (Pose/Vel/Root),-0.164733,0.9485629,-1.5137595,1.2177012,222,221,Continuous
+304,Continuous (Pose/Vel/Root),-0.05080911,0.36969954,-0.47400415,0.64968514,222,221,Continuous
+305,Continuous (Pose/Vel/Root),0.9127952,0.36131883,0.1670813,1.4382473,222,221,Continuous
+306,Continuous (Pose/Vel/Root),-0.16747692,0.93694055,-1.5013368,1.1955581,222,221,Continuous
+307,Continuous (Pose/Vel/Root),-0.034349527,0.3649442,-0.4511143,0.65773475,222,221,Continuous
+308,Continuous (Pose/Vel/Root),0.90954125,0.36388078,0.16602594,1.4381539,222,221,Continuous
+309,Continuous (Pose/Vel/Root),-0.17728887,0.9235105,-1.4603138,1.2070127,222,221,Continuous
+310,Continuous (Pose/Vel/Root),-0.07990127,0.33644986,-0.48476386,0.55878246,222,221,Continuous
+311,Continuous (Pose/Vel/Root),0.97647244,0.3379812,0.26081628,1.4654422,222,221,Continuous
+312,Continuous (Pose/Vel/Root),-0.16848858,0.9108125,-1.44272,1.1915021,222,221,Continuous
+313,Continuous (Pose/Vel/Root),-0.06691704,0.33837366,-0.46690845,0.5786567,221,221,Continuous
+314,Continuous (Pose/Vel/Root),0.97667676,0.35002628,0.25936717,1.4823042,222,221,Continuous
+315,Continuous (Pose/Vel/Root),-0.15907408,0.9050234,-1.4348862,1.185287,222,221,Continuous
+316,Continuous (Pose/Vel/Root),-0.058167707,0.34403396,-0.45804584,0.60043377,222,221,Continuous
+317,Continuous (Pose/Vel/Root),0.97308064,0.3618741,0.25032365,1.4951564,222,221,Continuous
+318,Continuous (Pose/Vel/Root),-0.052135177,0.7495291,-1.0798192,1.0732763,222,221,Continuous
+319,Continuous (Pose/Vel/Root),0.0076911086,0.35423487,-0.32978675,0.70296806,222,221,Continuous
+320,Continuous (Pose/Vel/Root),0.72675455,0.49666682,0.18956108,1.4051615,222,221,Continuous
+321,Continuous (Pose/Vel/Root),0.9065322,0.10667868,0.7036875,0.9969273,220,221,Continuous
+322,Continuous (Pose/Vel/Root),0.23302433,0.31385323,-0.22150064,0.6984607,222,221,Continuous
+323,Continuous (Pose/Vel/Root),0.0843745,0.03294323,0.042471495,0.17439172,222,221,Continuous
+324,Continuous (Pose/Vel/Root),-0.07121917,0.027174812,-0.1456716,-0.014539981,222,221,Continuous
+325,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+326,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+327,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+328,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+329,Static/Padding,0.0,0.0,0.0,0.0,1,0,[0.]
+330,Contact (Low Freq - Hands/Object?),0.7252252,0.44640073,0.0,1.0,2,3,[0. 1.]
+331,Contact (Low Freq - Hands/Object?),-0.7477477,0.43430528,-1.0,0.0,2,2,[-1.  0.]
+332,Static/Padding,-1.0,0.0,-1.0,-1.0,1,0,[-1.]
+333,Contact (Low Freq - Hands/Object?),-0.990991,0.094487295,-1.0,0.0,2,2,[-1.  0.]
+334,Contact (Low Freq - Hands/Object?),-0.1936937,0.3951917,-1.0,0.0,2,10,[-1.  0.]
+335,Contact (Low Freq - Hands/Object?),-0.1891892,0.39165884,-1.0,0.0,2,10,[-1.  0.]
+336,Contact (Low Freq - Hands/Object?),-0.8783784,0.32684827,-1.0,0.0,2,10,[-1.  0.]
+337,Contact (Low Freq - Hands/Object?),-0.8063063,0.39519167,-1.0,0.0,2,6,[-1.  0.]
+338,Contact (High Freq - Feet?),-0.15765765,0.3644197,-1.0,0.0,2,12,[-1.  0.]
+339,Contact (Low Freq - Hands/Object?),-0.06306306,0.46069434,-1.0,1.0,3,8,[-1.  0.  1.]
+340,Contact (Low Freq - Hands/Object?),-0.6531532,0.58622634,-1.0,1.0,3,8,[-1.  0.  1.]
+341,Contact (High Freq - Feet?),-0.5405405,0.7075371,-1.0,1.0,3,11,[-1.  0.  1.]
+342,Contact (Low Freq - Hands/Object?),-0.6351351,0.5593027,-1.0,1.0,3,8,[-1.  0.  1.]
+343,Static/Padding,-1.0,0.0,-1.0,-1.0,1,0,[-1.]
+344,Contact (Low Freq - Hands/Object?),-0.9774775,0.14837539,-1.0,0.0,2,2,[-1.  0.]
+345,Static/Padding,-1.0,0.0,-1.0,-1.0,1,0,[-1.]
+346,Static/Padding,-1.0,0.0,-1.0,-1.0,1,0,[-1.]
+347,Contact (Low Freq - Hands/Object?),-0.36036035,0.48010495,-1.0,0.0,2,1,[-1.  0.]
+348,Contact (Low Freq - Hands/Object?),0.013513514,0.8354733,-1.0,1.0,3,8,[-1.  0.  1.]
+349,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+350,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+351,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+352,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+353,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+354,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+355,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+356,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+357,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+358,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+359,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+360,Contact (Low Freq - Hands/Object?),0.27477476,0.9401905,-1.0,1.0,3,2,[-1.  0.  1.]
+361,Contact (Low Freq - Hands/Object?),0.013513514,0.8354733,-1.0,1.0,3,8,[-1.  0.  1.]
+362,Contact (Low Freq - Hands/Object?),0.013513514,0.8354733,-1.0,1.0,3,8,[-1.  0.  1.]
+363,Contact (Low Freq - Hands/Object?),0.013513514,0.8354733,-1.0,1.0,3,8,[-1.  0.  1.]
+364,Contact (Low Freq - Hands/Object?),-0.8378378,0.36859953,-1.0,0.0,2,4,[-1.  0.]
+365,Contact (Low Freq - Hands/Object?),-0.8063063,0.39519167,-1.0,0.0,2,4,[-1.  0.]
+366,Contact (Low Freq - Hands/Object?),-0.35135135,0.4773925,-1.0,0.0,2,1,[-1.  0.]
+367,Contact (Low Freq - Hands/Object?),0.26576576,0.9234674,-1.0,1.0,3,8,[-1.  0.  1.]
+368,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+369,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+370,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+371,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+372,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+373,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+374,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+375,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+376,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+377,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+378,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+379,Contact (Low Freq - Hands/Object?),0.3153153,0.93463844,-1.0,1.0,3,2,[-1.  0.  1.]
+380,Contact (Low Freq - Hands/Object?),0.26576576,0.9234674,-1.0,1.0,3,8,[-1.  0.  1.]
+381,Contact (Low Freq - Hands/Object?),0.26576576,0.9234674,-1.0,1.0,3,8,[-1.  0.  1.]
+382,Contact (Low Freq - Hands/Object?),0.26576576,0.9234674,-1.0,1.0,3,8,[-1.  0.  1.]
+383,Continuous (Pose/Vel/Root),0.013178348,0.047091093,-0.08860267,0.10327047,222,221,Continuous
+384,Continuous (Pose/Vel/Root),-0.0874378,0.10226414,-0.37113535,0.040589053,222,221,Continuous
+385,Continuous (Pose/Vel/Root),-0.025935482,0.3144548,-0.48322794,0.70694834,222,221,Continuous
+386,Continuous (Pose/Vel/Root),-0.9360903,0.060711633,-0.9994129,-0.70262796,222,221,Continuous
+387,Continuous (Pose/Vel/Root),-0.005488325,0.05472666,-0.14065193,0.082439266,222,221,Continuous
+388,Continuous (Pose/Vel/Root),0.14104763,0.11173586,-0.038120627,0.40014985,222,221,Continuous
+389,Continuous (Pose/Vel/Root),0.0079756295,0.31094703,-0.48150143,0.72375464,222,221,Continuous
+390,Continuous (Pose/Vel/Root),-0.9293513,0.06442031,-0.9979418,-0.6839145,222,221,Continuous
+391,Continuous (Pose/Vel/Root),0.031316772,0.06656417,-0.19667937,0.17247166,222,221,Continuous
+392,Continuous (Pose/Vel/Root),-0.092301026,0.12422041,-0.3981798,0.15449218,222,221,Continuous
+393,Continuous (Pose/Vel/Root),0.062150653,0.2930058,-0.3915499,0.81375146,222,221,Continuous
+394,Continuous (Pose/Vel/Root),-0.93464935,0.08575472,-0.9926735,-0.56782037,222,221,Continuous
+395,Continuous (Pose/Vel/Root),-0.01327499,0.043685928,-0.117695466,0.23207527,222,221,Continuous
+396,Continuous (Pose/Vel/Root),0.018371612,0.10592195,-0.37688935,0.2233276,222,221,Continuous
+397,Continuous (Pose/Vel/Root),-0.021652034,0.31182316,-0.44424748,0.8056429,222,221,Continuous
+398,Continuous (Pose/Vel/Root),-0.93831754,0.0906431,-0.9996261,-0.5888815,222,221,Continuous
+399,Continuous (Pose/Vel/Root),-0.01327499,0.043685928,-0.117695466,0.23207527,222,221,Continuous
+400,Continuous (Pose/Vel/Root),0.018371612,0.10592195,-0.37688935,0.2233276,222,221,Continuous
+401,Continuous (Pose/Vel/Root),-0.021652034,0.31182316,-0.44424748,0.8056429,222,221,Continuous
+402,Continuous (Pose/Vel/Root),-0.93831754,0.0906431,-0.9996261,-0.5888815,222,221,Continuous
+403,Continuous (Pose/Vel/Root),0.035610024,0.07825255,-0.07539688,0.21857214,222,221,Continuous
+404,Continuous (Pose/Vel/Root),0.15529227,0.11790259,-0.059093583,0.37778726,222,221,Continuous
+405,Continuous (Pose/Vel/Root),-0.04772521,0.30878854,-0.4903957,0.6857054,222,221,Continuous
+406,Continuous (Pose/Vel/Root),-0.92388314,0.058340125,-0.99403626,-0.6949758,222,221,Continuous
+407,Continuous (Pose/Vel/Root),0.012832262,0.06507918,-0.08154303,0.16746788,222,221,Continuous
+408,Continuous (Pose/Vel/Root),-0.048682403,0.12640095,-0.4011983,0.16509458,222,221,Continuous
+409,Continuous (Pose/Vel/Root),-0.0699844,0.33011508,-0.557402,0.67775816,222,221,Continuous
+410,Continuous (Pose/Vel/Root),-0.92672634,0.06750761,-0.99956596,-0.7037634,222,221,Continuous
+411,Continuous (Pose/Vel/Root),-0.015601811,0.045962997,-0.13018994,0.102108784,222,221,Continuous
+412,Continuous (Pose/Vel/Root),0.0060167983,0.09948115,-0.46244353,0.22281352,222,221,Continuous
+413,Continuous (Pose/Vel/Root),0.009558283,0.31613636,-0.45216236,0.74876016,222,221,Continuous
+414,Continuous (Pose/Vel/Root),-0.94030035,0.059270408,-0.9990136,-0.65321237,222,221,Continuous
+415,Continuous (Pose/Vel/Root),-0.015601811,0.045962997,-0.13018994,0.102108784,222,221,Continuous
+416,Continuous (Pose/Vel/Root),0.0060167983,0.09948115,-0.46244353,0.22281352,222,221,Continuous
+417,Continuous (Pose/Vel/Root),0.009558283,0.31613636,-0.45216236,0.74876016,222,221,Continuous
+418,Continuous (Pose/Vel/Root),-0.94030035,0.059270408,-0.9990136,-0.65321237,222,221,Continuous
+419,Continuous (Pose/Vel/Root),0.059584953,0.085991465,-0.15384346,0.21580108,222,221,Continuous
+420,Continuous (Pose/Vel/Root),-0.0434675,0.34276828,-0.68603885,0.8492965,222,221,Continuous
+421,Continuous (Pose/Vel/Root),-0.07795945,0.30579028,-0.52013355,0.6868722,222,221,Continuous
+422,Continuous (Pose/Vel/Root),-0.72729146,0.4910573,-0.99721134,0.72757286,222,221,Continuous
+423,Continuous (Pose/Vel/Root),0.01814536,0.08550767,-0.16587077,0.21292412,222,221,Continuous
+424,Continuous (Pose/Vel/Root),-0.029304713,0.3104975,-0.68086994,0.7905361,222,221,Continuous
+425,Continuous (Pose/Vel/Root),-0.07208976,0.31091535,-0.5511635,0.69201374,222,221,Continuous
+426,Continuous (Pose/Vel/Root),-0.7513811,0.4781765,-0.99979615,0.707631,222,221,Continuous
+427,Continuous (Pose/Vel/Root),0.0074623856,0.112559214,-0.20467459,0.27995652,222,221,Continuous
+428,Continuous (Pose/Vel/Root),-0.021928018,0.30949128,-0.6363091,0.79558855,222,221,Continuous
+429,Continuous (Pose/Vel/Root),-0.06789958,0.30676562,-0.49616584,0.6890971,222,221,Continuous
+430,Continuous (Pose/Vel/Root),-0.7438914,0.48879364,-0.99902064,0.7139595,222,221,Continuous
+431,Continuous (Pose/Vel/Root),-0.032870065,0.092941456,-0.26281002,0.2647591,222,221,Continuous
+432,Continuous (Pose/Vel/Root),-0.094273575,0.26363707,-0.64416903,0.6801858,222,221,Continuous
+433,Continuous (Pose/Vel/Root),-0.02883906,0.29387245,-0.46495095,0.6843454,222,221,Continuous
+434,Continuous (Pose/Vel/Root),-0.815849,0.39885738,-0.9997218,0.7490715,222,221,Continuous
+435,Continuous (Pose/Vel/Root),-0.08993799,0.079337895,-0.25591463,0.033596106,222,221,Continuous
+436,Continuous (Pose/Vel/Root),-0.17002109,0.20650971,-0.5733056,0.12102398,222,221,Continuous
+437,Continuous (Pose/Vel/Root),0.0188711,0.31244215,-0.4619983,0.69303215,222,221,Continuous
+438,Continuous (Pose/Vel/Root),-0.90051,0.07189375,-0.9989413,-0.63422877,222,221,Continuous
+439,Continuous (Pose/Vel/Root),0.04635322,0.12740019,-0.12039702,0.3178248,222,221,Continuous
+440,Continuous (Pose/Vel/Root),-0.15512805,0.25054535,-0.72767645,0.10865566,222,221,Continuous
+441,Continuous (Pose/Vel/Root),0.060475577,0.28815943,-0.41171256,0.6433155,222,221,Continuous
+442,Continuous (Pose/Vel/Root),-0.890323,0.12415606,-0.99751896,-0.5338008,222,221,Continuous
+443,Continuous (Pose/Vel/Root),0.26201177,0.23440346,-0.12103782,0.63546556,222,221,Continuous
+444,Continuous (Pose/Vel/Root),-0.17773417,0.25210872,-0.6567167,0.16524087,222,221,Continuous
+445,Continuous (Pose/Vel/Root),0.24393964,0.20745307,-0.09319924,0.6276121,222,221,Continuous
+446,Continuous (Pose/Vel/Root),-0.810645,0.14686047,-0.9963356,-0.4969097,222,221,Continuous
+447,Continuous (Pose/Vel/Root),0.3081964,0.2454859,-0.07665321,0.67126966,222,221,Continuous
+448,Continuous (Pose/Vel/Root),-0.03697198,0.26431873,-0.48063362,0.30577964,222,221,Continuous
+449,Continuous (Pose/Vel/Root),0.5883722,0.20378491,0.23574695,0.9146532,222,221,Continuous
+450,Continuous (Pose/Vel/Root),-0.5852983,0.20793284,-0.86165154,-0.16869996,222,221,Continuous
+451,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+452,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+453,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+454,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+455,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+456,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+457,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+458,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+459,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+460,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+461,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+462,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+463,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+464,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+465,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+466,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+467,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+468,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+469,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+470,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+471,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+472,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+473,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+474,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+475,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+476,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+477,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+478,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+479,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+480,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+481,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+482,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+483,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+484,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+485,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+486,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+487,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+488,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+489,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+490,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+491,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+492,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+493,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+494,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+495,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+496,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+497,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+498,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+499,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+500,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+501,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+502,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+503,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+504,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+505,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+506,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+507,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+508,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+509,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+510,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+511,Continuous (Pose/Vel/Root),0.5189544,0.14231257,0.26504266,0.7184827,222,221,Continuous
+512,Continuous (Pose/Vel/Root),0.13760069,0.33918577,-0.46031672,0.59442234,222,221,Continuous
+513,Continuous (Pose/Vel/Root),0.49530792,0.15668476,0.20108554,0.80615443,222,221,Continuous
+514,Continuous (Pose/Vel/Root),-0.53348505,0.1482099,-0.74524724,-0.25360066,222,221,Continuous
+515,Continuous (Pose/Vel/Root),-0.050310817,0.20614259,-0.3387118,0.48861706,222,221,Continuous
+516,Continuous (Pose/Vel/Root),0.03327345,0.2476517,-0.503047,0.6338953,222,221,Continuous
+517,Continuous (Pose/Vel/Root),-0.09208392,0.35868534,-0.66912484,0.704081,222,221,Continuous
+518,Continuous (Pose/Vel/Root),-0.67147005,0.5518414,-0.99645233,0.82300496,222,221,Continuous
+519,Continuous (Pose/Vel/Root),-0.028345112,0.44480792,-0.59719306,0.6690757,222,221,Continuous
+520,Continuous (Pose/Vel/Root),0.035955694,0.18585907,-0.29640734,0.42379546,222,221,Continuous
+521,Continuous (Pose/Vel/Root),0.27989373,0.37510917,-0.37879586,0.88800097,222,221,Continuous
+522,Continuous (Pose/Vel/Root),-0.0398067,0.7381559,-0.9346185,0.83905363,222,221,Continuous
+523,Continuous (Pose/Vel/Root),-0.053673428,0.41733426,-0.6502474,0.66337156,222,221,Continuous
+524,Continuous (Pose/Vel/Root),-0.06462535,0.21944487,-0.3305995,0.3488421,222,221,Continuous
+525,Continuous (Pose/Vel/Root),0.32646647,0.5356351,-0.6993636,0.94133615,222,221,Continuous
+526,Continuous (Pose/Vel/Root),-0.22397369,0.5718123,-0.86285985,0.79632866,222,221,Continuous
+527,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+528,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+529,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+530,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+531,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+532,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+533,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+534,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+535,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+536,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+537,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+538,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+539,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+540,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+541,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+542,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+543,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+544,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+545,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+546,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+547,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+548,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+549,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+550,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+551,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+552,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+553,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+554,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+555,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+556,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+557,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+558,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+559,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+560,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+561,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+562,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+563,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+564,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+565,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+566,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+567,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+568,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+569,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+570,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+571,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+572,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+573,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+574,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+575,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+576,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+577,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+578,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+579,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+580,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+581,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+582,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+583,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+584,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+585,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+586,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
+587,Continuous (Pose/Vel/Root),0.01744932,0.5854521,-0.62197757,0.69791555,222,221,Continuous
+588,Continuous (Pose/Vel/Root),0.036984704,0.32888427,-0.5458893,0.5836242,222,221,Continuous
+589,Continuous (Pose/Vel/Root),0.26239198,0.40826672,-0.5072457,0.74536216,222,221,Continuous
+590,Continuous (Pose/Vel/Root),-0.29211852,0.4759666,-0.81656885,0.80135185,222,221,Continuous
